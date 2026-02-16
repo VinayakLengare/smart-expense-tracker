@@ -29,23 +29,6 @@ Track your income and expenses, calculate balance in real time, and store data p
 
 ---
 
-## 📂 Project Structure
-smart-expense-tracker/
-│
-├── index.html
-├── README.md
-│
-├── css/
-│   └── style.css
-│
-├── js/
-│   └── script.js
-│
-└── assets/
-    └── icons/
-
-
----
 
 ## ⚙️ How It Works
 
