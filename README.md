@@ -36,13 +36,14 @@ smart-expense-tracker/
 ├── README.md
 │
 ├── css/
-│ └── style.css
+│   └── style.css
 │
 ├── js/
-│ └── script.js
+│   └── script.js
 │
 └── assets/
-└── icons/
+    └── icons/
+
 
 ---
 
