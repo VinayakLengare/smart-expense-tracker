@@ -1,10 +1,12 @@
 # Smart Expense Tracker Web Application
 
-A simple and efficient Smart Expense Tracker web application built using **HTML, CSS, and Vanilla JavaScript**.  
-This application helps users track their income and expenses, calculate balance in real time, and store data persistently using browser LocalStorage.
+A simple and efficient **Smart Expense Tracker** web application built using **HTML, CSS, and Vanilla JavaScript**.  
+Track your income and expenses, calculate balance in real time, and store data persistently using browser LocalStorage.  
+
+**Live Demo:** [Smart Expense Tracker](https://expensetracker-fron.netlify.app/)  
+**GitHub Repository:** [https://github.com/VinayakLengare/smart-expense-tracker](https://github.com/VinayakLengare/smart-expense-tracker.git)
 
 ---
-
 
 
 ## 🚀 Features
